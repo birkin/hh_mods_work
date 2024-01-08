@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/mods/v3/mods-3-7.xsd">
+    <mods:titleInfo>
+        <mods:title>
+            Torch — 0001
+        </mods:title>
+    </mods:titleInfo>
+    <mods:typeOfResource authority="primo" authorityURI="https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/100Loading_Records_from_External_Sources_into_Primo_VE/Configuring_Normalization_Rules_for_External_Resources_(Primo_VE)#Supported_Resource_Types_in_Primo_VE">
+        text_resources
+    </mods:typeOfResource>
+    <mods:note type="preferredcitation">
+        Brown University Library, John Hay Library, University Archives and Manuscripts, Box A, Brown University, Providence, RI, 02912, U.S.A., (http://library.brown.edu/)
+    </mods:note>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">
+            eng
+        </mods:languageTerm>
+        <mods:languageTerm type="text"/>
+    </mods:language>
+    <mods:accessCondition type="rights statement" xlink:href="http://rightsstatements.org/vocab/InC-EDU/1.0/">
+        In Copyright - Educational Use Permitted
+    </mods:accessCondition>
+    <mods:accessCondition type="restriction on access">
+        Collection is open for research.
+    </mods:accessCondition>
+    <mods:identifier type="local">
+        HH001645_0001
+    </mods:identifier>
+    <mods:note displayLabel="Digital object made available by">
+        Brown University Library, John Hay Library, University Archives and Manuscripts, Box A, Brown University, Providence, RI, 02912, U.S.A., (http://library.brown.edu/)
+    </mods:note>
+    <mods:subject>
+        <mods:name authority="local" type="corporate">
+            <mods:namePart>
+                Torch
+            </mods:namePart>
+        </mods:name>
+    </mods:subject>
+    <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects.html" valueURI="https://id.loc.gov/authorities/subjects/sh85110232.html">
+        <mods:topic>
+            Race
+        </mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh" authorityURI="http://id.loc.gov/authorities/subjects.html" valueURI="http://id.loc.gov/authorities/subjects/sh85112549">
+        <mods:topic>
+            Religion
+        </mods:topic>
+    </mods:subject>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+            <mods:title>
+                The Gordon Hall and Grace Hoag Collection of Extremist and Dissenting Printed Propaganda
+            </mods:title>
+        </mods:titleInfo>
+        <mods:location>
+            <mods:physicalLocation>
+                Brown University Library, John Hay Library, University Archives and Manuscripts, Box A, Brown University, Providence, RI, 02912, U.S.A., (http://library.brown.edu/)
+            </mods:physicalLocation>
+            <mods:url>
+                https://www.riamco.org/render?eadid=US-RPB-mshallhoag
+            </mods:url>
+            <mods:holdingSimple>
+                <mods:copyInformation>
+                    <mods:shelfLocator>
+                        Part 2: T-18
+                    </mods:shelfLocator>
+                    <mods:electronicLocator>
+                        https://apps.library.brown.edu/hall-hoag/catalog/US-RPB-HH_001645
+                    </mods:electronicLocator>
+                </mods:copyInformation>
+            </mods:holdingSimple>
+        </mods:location>
+    </mods:relatedItem>
+</mods:mods>
